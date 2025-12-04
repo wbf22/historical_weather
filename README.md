@@ -17,6 +17,8 @@ Each record is a csv with the following:
 
 Other fields are available at https://www.weather.gov/wrh/climate such as pressure and other measurements.
 
+The entire dataset is about 4GB.
+
 In this repo you'll find folders labeled by region, each containing csvs with weather data for each city in that region. Some cities
 have longer historical records than others. To find a specific city consult the map below (or search the repo):
 
